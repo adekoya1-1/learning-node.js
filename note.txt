@@ -1,0 +1,13 @@
+// GET, POST, PATHCH, PUT, DELETE - REQUEST
+
+//CRUD - CREATE READ UPDATE DELETE
+CREATE - request body - POST
+READ -GET 
+
+
+
+
+midleware are function tha run in the server between request and response
+app.use 
+
+req ---->midleware<----response
